@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TelnetTool</string>
+    <string name="host_hint">IP o hostname</string>
+    <string name="port_hint">Puerto</string>
+    <string name="connect">Conectar</string>
+    <string name="disconnect">Desconectar</string>
+    <string name="send">Enviar</string>
+    <string name="input_hint">Escribe un comando</string>
+</resources>
